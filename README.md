@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emirod1983
+- 👋 Hi, I’m Emiliano
 - 💻 [C#] [.Net Core] + [Angular] developer
 - 👀 I’m interested in Software Engineering as a tool to improve the world we live in.
 - 🌱 I’m currently learning [Frontend design patterns]
