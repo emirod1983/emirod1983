@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emirod1983
 - 💻 [C#] [.Net Core] + [Angular] developer
 - 👀 I’m interested in Software Engineering as a tool to improve the world we live in.
-- 🌱 I’m currently learning [Angular]
+- 🌱 I’m currently learning [Frontend design patterns]
 - 💞️ I’m looking to collaborate on impactuful Open Source projects
 - 📫 Reach me at: emirod1983@gmail.com
 
