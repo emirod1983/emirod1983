@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emiliano
 - 💻 [C#] [.Net Core] + [Angular] developer
-- 👀 I’m interested in Software Engineering as a tool to improve the world we live in.
-- 🌱 I’m currently learning [Frontend design patterns]
+- 👀 I’m interested in Software Engineering applied to Social Sciences.
+- 🌱 I’m currently learning [Angular 14 + Jasmine/Karma + Jest]
 - 💞️ I’m looking to collaborate on impactuful Open Source projects
 - 📫 Reach me at: emirod1983@gmail.com
 
