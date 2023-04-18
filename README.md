@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Emiliano
 - 💻 [C#] [.Net Core] + [Angular] developer
 - 👀 I’m interested in Software Engineering applied to Social Sciences.
-- 🌱 I’m currently learning [Angular 14 + Jasmine/Karma + Jest]
+- 🌱 I’m currently learning [Python] and [Angular 14 + Jest]
 - 💞️ I’m looking to collaborate on impactuful Open Source projects
 - 📫 Reach me at: emirod1983@gmail.com
 
